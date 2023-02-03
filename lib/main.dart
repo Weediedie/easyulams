@@ -1,5 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'login_dart.dart';
 
 Future main() async{
   WidgetsFlutterBinding.ensureInitialized();
@@ -31,6 +32,12 @@ class MyApp extends StatelessWidget {
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
+}
+class Mainpage extends StatelessWidget{
+  @override
+  Widget build(BuildContext context) => Scaffold(
+    body: LoginWidget(),
+  );
 }
 
 class MyHomePage extends StatefulWidget {
