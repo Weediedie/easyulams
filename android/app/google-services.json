@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797984913689",
+    "project_id": "easy-ulam",
+    "storage_bucket": "easy-ulam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797984913689:android:785b69da2a6b9704846d88",
+        "android_client_info": {
+          "package_name": "com.app.easyulam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797984913689-olnk8rr6lme7v0jadanoe9d048qhojj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBryd_O56M08_tF7T24blLT2FHX9Y3tgOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797984913689-olnk8rr6lme7v0jadanoe9d048qhojj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
